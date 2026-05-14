@@ -1,0 +1,78 @@
+# Reportes de Ciberamenazas para América Latina y el Caribe (LATAM-LAC)
+
+Esta carpeta contiene reportes interactivos de inteligencia de ciberamenazas empaquetados en archivos ZIP, publicados por el **WXA Internet Abuse Signal Collective (IASC)**.
+
+Estos paquetes están dirigidos a analistas, investigadores, equipos CERT/CSIRT, defensores de redes, responsables de políticas públicas y otras partes interesadas que requieran inteligencia estructurada sobre amenazas regionales.
+
+---
+
+## Contenido
+
+Cada paquete ZIP puede incluir:
+
+- Reportes interactivos en HTML
+- Paneles y dashboards de inteligencia
+- Conjuntos de datos y exportaciones CSV
+- Resúmenes de señales de abuso
+- Análisis de telemetría de red
+- Documentos de asesoría y alertas
+- Visualizaciones y recursos complementarios
+- Documentación técnica y archivos README
+
+---
+
+## Uso Recomendado
+
+### 1. Descargar el paquete ZIP
+
+Seleccione el paquete de reporte correspondiente a sus necesidades de análisis.
+
+### 2. Extraer el contenido
+
+Generalmente, los usuarios deben:
+
+- Descomprimir el archivo ZIP en un directorio local
+- Mantener la estructura interna de carpetas
+- Abrir los reportes HTML incluidos usando un navegador moderno
+
+Navegadores recomendados:
+
+- Google Chrome
+- Microsoft Edge
+- Firefox
+
+---
+
+## Importante
+
+Cada paquete ZIP incluye su propia documentación e instrucciones específicas.
+
+Después de extraer el contenido, los usuarios deben:
+
+1. Leer los archivos README incluidos en el paquete
+2. Seguir las instrucciones para:
+   - Interpretar los reportes interactivos
+   - Revisar avisos y asesorías
+   - Comprender los formatos de datos
+   - Navegar dashboards e indicadores
+   - Utilizar los recursos y datasets incluidos
+
+Los distintos paquetes pueden utilizar metodologías, indicadores y estructuras de datos diferentes.
+
+---
+
+## Notas
+
+- Algunos reportes pueden incluir grandes volúmenes de datos y tardar algunos segundos en cargarse.
+- Los reportes interactivos están diseñados para visualizarse localmente y sin conexión, salvo indicación contraria.
+- Mantenga las rutas relativas y la estructura de carpetas al extraer los archivos para asegurar el correcto funcionamiento de dashboards y recursos integrados.
+
+---
+
+## Sobre el WXA Internet Abuse Signal Collective (IASC)
+
+El WXA Internet Abuse Signal Collective (IASC) desarrolla productos colaborativos de inteligencia de ciberamenazas y recursos de monitoreo de abuso en Internet enfocados en riesgos regionales y sectoriales.
+
+Estos reportes agregan y contextualizan señales de abuso en Internet, observaciones de infraestructura maliciosa, tendencias de vulnerabilidades e inteligencia operacional relevante para América Latina y el Caribe.
+
+---
